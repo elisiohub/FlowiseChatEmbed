@@ -47,6 +47,7 @@ export const Badge = (props: Props) => {
       Avi built by
       <a
         ref={liteBadge}
+        href={'https://avilab.co.za'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
